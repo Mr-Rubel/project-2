@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+*{
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	color: red;
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+.clock{
+	border: 3px solid red;
+	border-radius: 4px;
+	width: 700px;
+	margin: 0 auto;
+	font-size: 60px;
+	text-align: center;
+}
+.countdown{
+	width: 698px;
+	margin: 0 auto;
+	font-size: 60px;
+	text-align: center;
+}
+.day{
+	font-size: 30px;
+	width: 100px;
+	margin: auto;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+}
+.hour{
+	font-size: 30px;
+	width: 100px;
+	margin: auto;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+}
+.min{
+	font-size: 30px;
+	width: 100px;
+	margin: auto;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+}
+.sec{
+	font-size: 30px;
+	width: 100px;
+	margin: auto;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+}
+.totald{
+	margin: auto;
+	width: 434px;
+	background-color: red;
+	text-align: center;
+}
+.birth{
+	border:3px solid red;
+	width: 700px;
+	height: 236px;
+	margin: auto;
+	border-radius: 4px;
+}
